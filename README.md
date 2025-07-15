@@ -31,7 +31,7 @@ Actualmente me encuentro trabajando en proyectos pequeños para mejorar mis habi
 
 ## 📫 Contacto y redes
 
-- 💼 LinkedIn: [linkedin.com/in/luciano-pesqueira-988426b8]
+- 💼 LinkedIn: [https://www.linkedin.com/in/luciano-pesqueira-988426b8/]
 - 📸 Instagram: [https://www.instagram.com/luchetox4]
 - 📧 Email: luciano.n.pesqueira@gmail.com
 
